@@ -15,3 +15,9 @@ Multiple sources were used. For flood data Flood IMG Database https://www.kaggle
 https://www.kaggle.com/datasets/stelath/city-street-view-dataset?select=street_view_10020.jpg were used. This provided a great source of input data. However, they dont contain many city flooding images. For which I scraped a few images of flooding in city. NYC has had multiple hurricanes in past and was the ideal way to find floding in a city.
 To recreate the project please download the datasets in the appropriate folders under `data`. 
 
+## Examples
+
+<img src="results/input1.png"  width="256" height="256"> <img src="results/result1.png"  width="256" height="256">
+
+
+<img src="results/input2.png"  width="256" height="256"> <img src="results/result2.png"  width="250" height="250">
